@@ -465,6 +465,8 @@ address p {
   }
 }
 
+/* PHONE */
+
 @media screen and (max-width: 500px) {
   header {
     padding: 0 0 25px;
