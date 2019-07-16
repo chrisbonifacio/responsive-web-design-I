@@ -355,6 +355,7 @@ address p {
 
 .services-header-img {
   width: 100%;
+  margin-bottom: 20px;
 }
 
 /* Flexbox Grid */
